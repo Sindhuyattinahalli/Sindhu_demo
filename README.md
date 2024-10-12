@@ -1,4 +1,4 @@
 # Sindhu_demo
 This is my first Git repository.
 <br>
-Author - Sindhu
+Author - Sindhu (yattinahalli)
